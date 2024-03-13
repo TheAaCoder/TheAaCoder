@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheAaCoder
 - 👀 I’m interested in FTC Robotics
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on FTC prijects for my team
+- 💞️ I’m looking to collaborate on FTC projects for my team
 
 
 <!---
