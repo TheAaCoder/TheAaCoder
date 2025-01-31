@@ -2,4 +2,4 @@
 - 👀 I’m interested in FTC Robotics
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on FTC projects for my team
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3624643)
+<img src="https://tryhackme-badges.s3.amazonaws.com/CodeAaPlus.png" alt="Your Image Badge" />
